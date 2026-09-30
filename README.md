@@ -8,19 +8,19 @@ Soy Henry Pérez, Técnico Superior en Administración de Redes, apasionado por 
 
 En este espacio documento proyectos reales, experimentos, soluciones y aprendizajes relacionados con:
 
-- 🖥️ Infrastructure & Networking
-- 🐳 Docker & Containers
-- ⚙️ DevOps & CI/CD
-- 🔌 APIs & Automation
-- 🤖 Artificial Intelligence
-- ☁️ Cloud & Self-Hosted Services
-- 🔐 Cybersecurity & Best Practices
+- Infrastructure & Networking
+- Docker & Containers
+- DevOps & CI/CD
+- APIs & Automation
+- Artificial Intelligence
+- Cloud & Self-Hosted Services
+- Cybersecurity & Best Practices
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ HenryCloud
+### HenryCloud
 Infraestructura self-hosted construida sobre Proxmox y Docker.
 
 **Tecnologías:**
@@ -30,28 +30,28 @@ Infraestructura self-hosted construida sobre Proxmox y Docker.
 
 ---
 
-### 🐳 Docker Lab
+### Docker Lab
 Laboratorio para aprender y documentar despliegues reproducibles utilizando Docker y Docker Compose.
 
 > Próximamente.
 
 ---
 
-### 🔌 Network Automation
+### Network Automation
 Automatización de tareas relacionadas con administración de redes mediante Python y APIs.
 
 > Próximamente.
 
 ---
 
-### 🤖 AI Automation
+### AI Automation
 Experimentos y soluciones utilizando Inteligencia Artificial, APIs y automatización.
 
 > Próximamente.
 
 ---
 
-## 🧰 Technologies
+## Technologies
 
 **Infrastructure**
 
@@ -75,7 +75,7 @@ Experimentos y soluciones utilizando Inteligencia Artificial, APIs y automatizac
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 Actualmente estoy desarrollando conocimientos y proyectos en:
 
@@ -89,7 +89,7 @@ Actualmente estoy desarrollando conocimientos y proyectos en:
 
 ---
 
-## 📚 Philosophy
+## Philosophy
 
 > Build it. Document it. Automate it. Improve it.
 
@@ -97,7 +97,7 @@ Este laboratorio representa mi proceso de aprendizaje y construcción de solucio
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 - GitHub: [@henryperezlab](https://github.com/henryperezlab)
 - LinkedIn: Próximamente
